@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="angus-activation-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/angus-activation-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/antlr4-runtime-4.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/byte-buddy-1.14.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/classmate-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/hibernate-commons-annotations-6.0.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/hibernate-core-6.3.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/istack-commons-runtime-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/jakarta.activation-api-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/jakarta.inject-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/jakarta.persistence-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/jakarta.transaction-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/jakarta.xml.bind-api-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/jandex-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/jaxb-core-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/jaxb-runtime-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/jboss-logging-3.5.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/jar_files/txw2-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Libraries/Driver/mysql-connector-java-8.0.29.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
